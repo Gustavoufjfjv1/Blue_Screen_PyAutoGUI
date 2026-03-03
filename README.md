@@ -1,4 +1,4 @@
-# Tela_azul_PyAutoGui
+# Blue_Screen_PyAutoGUI
 
 Pequeno exercício usando PyAutoGui
 
