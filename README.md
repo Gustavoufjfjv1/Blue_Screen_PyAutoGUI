@@ -20,9 +20,11 @@ Small exercise using PyAutoGui
 When downloading and running this code, keep in mind that:
 
 1 - The pyautogui library must be installed on your desktop.
+
 2 - The code must be run in VS Code or IDEs that support pyautogui.
 
 3 - The HTML page must be initialized with the live server; otherwise, it will not be possible to access the site.
+
 4 - The notepad code will run independently of the live server.
 
 This code is safe and is for educational and/or leisure purposes only; nothing will be affected on your machine. 
